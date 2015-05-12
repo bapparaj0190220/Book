@@ -1,0 +1,10 @@
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\bin\Debug\BookSearchDbApp.exe.config
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\bin\Debug\BookSearchDbApp.exe
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\bin\Debug\BookSearchDbApp.pdb
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.csprojResolveAssemblyReference.cache
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.BookSaveForm1.resources
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.Properties.Resources.resources
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.csproj.GenerateResource.Cache
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.exe
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.pdb
+F:\Bappa\BookSearchDbApp\BookSearchDbApp\obj\Debug\BookSearchDbApp.Form1.resources
